@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/637/trunk/AppServers/Download/DownClient
+END
+DownloadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/625/trunk/AppServers/Download/DownClient/DownloadManager.cpp
+END
+TaskManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/637/trunk/AppServers/Download/DownClient/TaskManager.h
+END
+DownloaClientMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/423/trunk/AppServers/Download/DownClient/DownloaClientMain.cpp
+END
+DownloadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/421/trunk/AppServers/Download/DownClient/DownloadManager.h
+END
+TaskManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/625/trunk/AppServers/Download/DownClient/TaskManager.cpp
+END

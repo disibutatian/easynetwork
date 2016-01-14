@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/628/trunk/libnetframework/AppTemplate
+END
+TemplateProtocolFamily.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/622/trunk/libnetframework/AppTemplate/TemplateProtocolFamily.cpp
+END
+enetlib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/628/trunk/libnetframework/AppTemplate/enetlib
+END
+AppTemplateMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/419/trunk/libnetframework/AppTemplate/AppTemplateMain.cpp
+END
+MTAppTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/419/trunk/libnetframework/AppTemplate/MTAppTemplate.h
+END
+STAppTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/625/trunk/libnetframework/AppTemplate/STAppTemplate.cpp
+END
+TemplateProtocolFamily.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/625/trunk/libnetframework/AppTemplate/TemplateProtocolFamily.h
+END
+STAppTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/420/trunk/libnetframework/AppTemplate/STAppTemplate.h
+END
+MTAppTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/625/trunk/libnetframework/AppTemplate/MTAppTemplate.cpp
+END

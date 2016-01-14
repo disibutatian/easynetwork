@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/625/trunk/libnetframework/AppFramework_Sample_MT
+END
+StringProtocolFamily.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/513/trunk/libnetframework/AppFramework_Sample_MT/StringProtocolFamily.h
+END
+MTServerAppFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/418/trunk/libnetframework/AppFramework_Sample_MT/MTServerAppFramework.cpp
+END
+MTServerAppFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/417/trunk/libnetframework/AppFramework_Sample_MT/MTServerAppFramework.h
+END
+MTServerAppFrameworkMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/489/trunk/libnetframework/AppFramework_Sample_MT/MTServerAppFrameworkMain.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/625/trunk/libnetframework/AppFramework_Sample_MT/makefile
+END

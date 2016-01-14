@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/645/trunk/ConfigReader
+END
+test.config
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/640/trunk/ConfigReader/test.config
+END
+test_ConfigReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/640/trunk/ConfigReader/test_ConfigReader.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/640/trunk/ConfigReader/makefile
+END
+ConfigReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/645/trunk/ConfigReader/ConfigReader.h
+END

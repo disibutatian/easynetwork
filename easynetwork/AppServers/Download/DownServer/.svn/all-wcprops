@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/525/trunk/AppServers/Download/DownServer
+END
+DownloadServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/525/trunk/AppServers/Download/DownServer/DownloadServer.cpp
+END
+DownloadServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/422/trunk/AppServers/Download/DownServer/DownloadServer.h
+END
+DownloadServerMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/423/trunk/AppServers/Download/DownServer/DownloadServerMain.cpp
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/649/trunk/libnetframework
+END
+SocketType.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/libnetframework/SocketType.h
+END
+IODemuxerEpoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/377/trunk/libnetframework/IODemuxerEpoll.h
+END
+ThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/648/trunk/libnetframework/ThreadPool.h
+END
+IODemuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/libnetframework/IODemuxer.h
+END
+IOBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/377/trunk/libnetframework/IOBuffer.h
+END
+ProtocolFamily.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/513/trunk/libnetframework/ProtocolFamily.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/648/trunk/libnetframework/Thread.h
+END
+NetInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/420/trunk/libnetframework/NetInterface.h
+END
+DefaultProtocolFamily.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/648/trunk/libnetframework/DefaultProtocolFamily.h
+END
+MemManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/trunk/libnetframework/MemManager.h
+END
+TransProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/413/trunk/libnetframework/TransProtocol.h
+END
+WorkThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/430/trunk/libnetframework/WorkThread.h
+END
+ConnectThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/648/trunk/libnetframework/ConnectThreadPool.h
+END
+EventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/378/trunk/libnetframework/EventHandler.h
+END
+ConnectThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/648/trunk/libnetframework/ConnectThread.h
+END
+SocketManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/libnetframework/SocketManager.h
+END
+框架说明.docx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/221/trunk/libnetframework/%E6%A1%86%E6%9E%B6%E8%AF%B4%E6%98%8E.docx
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/648/trunk/libnetframework/Queue.h
+END
+PipeThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/648/trunk/libnetframework/PipeThread.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/379/trunk/libnetframework/Socket.h
+END
+IODemuxerEpoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/378/trunk/libnetframework/IODemuxerEpoll.cpp
+END
+IOBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/648/trunk/libnetframework/IOBuffer.cpp
+END
+ListenHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/libnetframework/ListenHandler.h
+END
+ByteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/411/trunk/libnetframework/ByteBuffer.h
+END
+ConnectAccepter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/648/trunk/libnetframework/ConnectAccepter.h
+END
+NetInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/634/trunk/libnetframework/NetInterface.cpp
+END
+TransProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/413/trunk/libnetframework/TransProtocol.cpp
+END
+MemManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/libnetframework/MemManager.cpp
+END
+ConnectThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/649/trunk/libnetframework/ConnectThread.cpp
+END
+SocketManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/86/trunk/libnetframework/SocketManager.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/390/trunk/libnetframework/Socket.cpp
+END
+ListenHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/libnetframework/ListenHandler.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/647/trunk/libnetframework/makefile
+END
+ByteBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/411/trunk/libnetframework/ByteBuffer.cpp
+END
+ConfigReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/646/trunk/libnetframework/ConfigReader.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/625/trunk/libnetframework/AppFramework_Sample
+END
+StringProtocolFamily.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/513/trunk/libnetframework/AppFramework_Sample/StringProtocolFamily.h
+END
+ClientAppFrameworkMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/484/trunk/libnetframework/AppFramework_Sample/ClientAppFrameworkMain.cpp
+END
+ClientAppFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/417/trunk/libnetframework/AppFramework_Sample/ClientAppFramework.h
+END
+ServerAppFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/487/trunk/libnetframework/AppFramework_Sample/ServerAppFramework.cpp
+END
+ServerAppFrameworkMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/487/trunk/libnetframework/AppFramework_Sample/ServerAppFrameworkMain.cpp
+END
+ServerAppFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/417/trunk/libnetframework/AppFramework_Sample/ServerAppFramework.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/625/trunk/libnetframework/AppFramework_Sample/makefile
+END
+ClientAppFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/451/trunk/libnetframework/AppFramework_Sample/ClientAppFramework.cpp
+END
